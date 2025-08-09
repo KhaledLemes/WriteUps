@@ -28,7 +28,7 @@ I took a brief time to read the challenge a little bit more, and noticed the mai
 There were two things I have done almost immediately:
 - [Inspected the website](#inspecting-the-main-website)
 - [Tried to search for /login paths](#searching-for-login-paths)
-- [Scanning the website] ()
+- [Scanning the website](#scanning-the-website)
 
 ### Inspecting the main website
 By simply pressing F12, I noticed that Rick left a note for himself on its body
